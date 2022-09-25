@@ -1,0 +1,59 @@
+body{
+    background-color: bisque;
+}
+.App{
+    text-align: center;
+    padding: auto;
+    background-color: whitesmoke;
+    margin-inline-start: auto;
+    border-style: dashed;
+    border-bottom-right-radius: 50%;
+    border-bottom-left-radius: 50%  ;
+    border-color: black;
+    position: sticky;
+    
+}
+.buttonForm{
+    padding: 5px;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    margin: 5px;
+    color: black;
+    background-color: aqua;
+    border-color: black;
+
+}
+.inputType{
+    width: 15%;
+    background-color: antiquewhite;
+    border-radius: 50%;
+    border-color: black;
+}
+.footerButton{
+    background-color: antiquewhite;
+    color:black;
+    border-radius: 50%;
+    border-color: black;
+
+}
+.Button-todo{
+    background-color: aqua;
+    border-color: black;
+    margin: 0.5%;
+    
+
+}
+.todoCheck{
+    border-color: black;
+    margin: 0.5%;
+
+}
+.todoList{
+    list-style-type: none;
+}
+.header{
+    color: gray;
+    
+}
